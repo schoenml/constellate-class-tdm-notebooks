@@ -6,7 +6,7 @@
 - part: The Course
   chapters:
   - file: book/schedule
-    title: Course Schedule
+    title: Course Schedule as of April
   - file: book/syllabus
     title: Course Syllabus
   - file: book/all-notebooks
@@ -19,13 +19,13 @@
   - file: book/install-software
     title: Installing software to modify your Book
 
-- part: Reference
+- part: Reference changed to constellate
   chapters:
-    - url: https://tdm-pilot.org
+    - url: https://constellate.org
       title: Constellate Platform
-    - url: https://docs.tdm-pilot.org/
+    - url: https://docs.constellate.org/
       title: Constellate Documentation
-    - url: https://docs.tdm-pilot.org/key-terms/
+    - url: https://docs.constellate.org/key-terms/
       title: Text Analysis Glossary
     - url: https://jupyterbook.org/intro.html
       title: Jupyter Book Documentation
